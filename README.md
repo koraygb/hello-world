@@ -1,2 +1,6 @@
 # hello-world
-take off
+take off project
+
+this is how I start using github.
+
+koray
